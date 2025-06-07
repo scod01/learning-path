@@ -1,3 +1,4 @@
+![Banner](banner.png)
 🧭 Mi Hoja de Ruta como Desarrollador de Software
 👋 Hola, soy David Suárez y esta es mi hoja de ruta pública. Aquí documento mi avance como principiante en programación, redes e inteligencia artificial.
 Este repositorio está en constante crecimiento, como mi conocimiento.
