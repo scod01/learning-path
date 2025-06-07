@@ -19,11 +19,11 @@ Tema	Estado
 Variables y tipos de datos	✅ Completado
 Condicionales (if, else)	✅ Completado
 Bucles (for, while)	✅ Completado
-Funciones	🔄 En progreso
-Listas y diccionarios	🔄 En progreso
-Módulos y librerías	⏳ Pendiente
-Manejo de errores	⏳ Pendiente
-Archivos (JSON, TXT, CSV)	⏳ Pendiente
+Funciones	✅ Completado
+Listas y diccionarios	✅ Completado
+Módulos y librerías	✅ Completado
+Manejo de errores	✅ Completado
+Archivos (JSON, TXT, CSV)	✅ Completado
 Proyectos pequeños	⏳ Pendiente
 
 🌐 Redes con Cisco
